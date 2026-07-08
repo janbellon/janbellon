@@ -11,5 +11,9 @@ I have also created some tutorials and guides on [my website](https://nobell.fr)
 If you want to talk, you can contact me at [jan@nobell.fr](mailto:jan@nobell.fr).
 
 <hr>
+Hating proprietary software is a matter of philosophy.
+Hating open-source software is a skill issue.
+If an open-source solution isn't good enough, you can always improve it.
+<hr>
 
 [](https://github-readme-stats.vercel.app/api?username=janbellon&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
