@@ -13,5 +13,3 @@ If you want to talk, you can contact me at [jan@nobell.fr](mailto:jan@nobell.fr)
 <hr>
 
 [](https://github-readme-stats.vercel.app/api?username=janbellon&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
-
-<a rel="me" href="https://mastodon.nobell.fr/@jan">Mastodon</a>
